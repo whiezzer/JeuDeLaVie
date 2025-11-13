@@ -1,0 +1,11 @@
+C:\Users\cotis\Documents\Enjmin\cours\exercice\POO\TP_JeuDeLaVie_version_graphique\TP_JeuDeLaVie_version_graphique\bin\Debug\TP_JeuDeLaVie_version_graphique.exe.config
+C:\Users\cotis\Documents\Enjmin\cours\exercice\POO\TP_JeuDeLaVie_version_graphique\TP_JeuDeLaVie_version_graphique\bin\Debug\TP_JeuDeLaVie_version_graphique.exe
+C:\Users\cotis\Documents\Enjmin\cours\exercice\POO\TP_JeuDeLaVie_version_graphique\TP_JeuDeLaVie_version_graphique\bin\Debug\TP_JeuDeLaVie_version_graphique.pdb
+C:\Users\cotis\Documents\Enjmin\cours\exercice\POO\TP_JeuDeLaVie_version_graphique\TP_JeuDeLaVie_version_graphique\obj\Debug\TP_JeuDeLaVie_version_graphique.csproj.AssemblyReference.cache
+C:\Users\cotis\Documents\Enjmin\cours\exercice\POO\TP_JeuDeLaVie_version_graphique\TP_JeuDeLaVie_version_graphique\obj\Debug\TP_JeuDeLaVie_version_graphique.Form1.resources
+C:\Users\cotis\Documents\Enjmin\cours\exercice\POO\TP_JeuDeLaVie_version_graphique\TP_JeuDeLaVie_version_graphique\obj\Debug\TP_JeuDeLaVie_version_graphique.Properties.Resources.resources
+C:\Users\cotis\Documents\Enjmin\cours\exercice\POO\TP_JeuDeLaVie_version_graphique\TP_JeuDeLaVie_version_graphique\obj\Debug\TP_JeuDeLaVie_version_graphique.csproj.GenerateResource.cache
+C:\Users\cotis\Documents\Enjmin\cours\exercice\POO\TP_JeuDeLaVie_version_graphique\TP_JeuDeLaVie_version_graphique\obj\Debug\TP_JeuDeLaVie_version_graphique.csproj.CoreCompileInputs.cache
+C:\Users\cotis\Documents\Enjmin\cours\exercice\POO\TP_JeuDeLaVie_version_graphique\TP_JeuDeLaVie_version_graphique\obj\Debug\TP_JeuDeLaVie_version_graphique.exe
+C:\Users\cotis\Documents\Enjmin\cours\exercice\POO\TP_JeuDeLaVie_version_graphique\TP_JeuDeLaVie_version_graphique\obj\Debug\TP_JeuDeLaVie_version_graphique.pdb
+C:\Users\cotis\Documents\Enjmin\cours\exercice\POO\TP_JeuDeLaVie_version_graphique\TP_JeuDeLaVie_version_graphique\obj\Debug\TP_JeuDeLaVie_version_graphique.exe.config
