@@ -12,7 +12,7 @@ public class Grid
     // ★★★ Constructeur : initialise la grille et les cellules
     public Grid(int nbCells, List<Coords> AliveCellsCoords)
     {
-        _n = 11;
+        _n = 20;
 
         //crée une grille _n par _n vide
         TabCells = new Cell[_n, _n];

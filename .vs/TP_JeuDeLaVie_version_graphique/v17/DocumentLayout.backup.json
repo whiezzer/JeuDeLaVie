@@ -3,15 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\cotis\\Documents\\Enjmin\\cours\\exercice\\POO\\TP_JeuDeLaVie_version_graphique\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E3C4C9AB-DBE2-4B51-BFEF-7872CB5C37F5}|TP_JeuDeLaVie_version_graphique\\TP_JeuDeLaVie_version_graphique.csproj|C:\\Users\\cotis\\Documents\\Enjmin\\cours\\exercice\\POO\\TP_JeuDeLaVie_version_graphique\\tp_jeudelavie_version_graphique\\controls\\mainlabel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E3C4C9AB-DBE2-4B51-BFEF-7872CB5C37F5}|TP_JeuDeLaVie_version_graphique\\TP_JeuDeLaVie_version_graphique.csproj|solutionrelative:tp_jeudelavie_version_graphique\\controls\\mainlabel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E3C4C9AB-DBE2-4B51-BFEF-7872CB5C37F5}|TP_JeuDeLaVie_version_graphique\\TP_JeuDeLaVie_version_graphique.csproj|C:\\Users\\cotis\\Documents\\Enjmin\\cours\\exercice\\POO\\TP_JeuDeLaVie_version_graphique\\tp_jeudelavie_version_graphique\\grid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3C4C9AB-DBE2-4B51-BFEF-7872CB5C37F5}|TP_JeuDeLaVie_version_graphique\\TP_JeuDeLaVie_version_graphique.csproj|solutionrelative:tp_jeudelavie_version_graphique\\grid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E3C4C9AB-DBE2-4B51-BFEF-7872CB5C37F5}|TP_JeuDeLaVie_version_graphique\\TP_JeuDeLaVie_version_graphique.csproj|C:\\Users\\cotis\\Documents\\Enjmin\\cours\\exercice\\POO\\TP_JeuDeLaVie_version_graphique\\tp_jeudelavie_version_graphique\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{E3C4C9AB-DBE2-4B51-BFEF-7872CB5C37F5}|TP_JeuDeLaVie_version_graphique\\TP_JeuDeLaVie_version_graphique.csproj|solutionrelative:tp_jeudelavie_version_graphique\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E3C4C9AB-DBE2-4B51-BFEF-7872CB5C37F5}|TP_JeuDeLaVie_version_graphique\\TP_JeuDeLaVie_version_graphique.csproj|c:\\users\\cotis\\documents\\enjmin\\cours\\exercice\\poo\\tp_jeudelavie_version_graphique\\tp_jeudelavie_version_graphique\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E3C4C9AB-DBE2-4B51-BFEF-7872CB5C37F5}|TP_JeuDeLaVie_version_graphique\\TP_JeuDeLaVie_version_graphique.csproj|C:\\Users\\cotis\\Documents\\Enjmin\\cours\\exercice\\POO\\TP_JeuDeLaVie_version_graphique\\tp_jeudelavie_version_graphique\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E3C4C9AB-DBE2-4B51-BFEF-7872CB5C37F5}|TP_JeuDeLaVie_version_graphique\\TP_JeuDeLaVie_version_graphique.csproj|solutionrelative:tp_jeudelavie_version_graphique\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -19,8 +15,28 @@
       "RelativeMoniker": "D:0:0:{E3C4C9AB-DBE2-4B51-BFEF-7872CB5C37F5}|TP_JeuDeLaVie_version_graphique\\TP_JeuDeLaVie_version_graphique.csproj|solutionrelative:tp_jeudelavie_version_graphique\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{E3C4C9AB-DBE2-4B51-BFEF-7872CB5C37F5}|TP_JeuDeLaVie_version_graphique\\TP_JeuDeLaVie_version_graphique.csproj|C:\\Users\\cotis\\Documents\\Enjmin\\cours\\exercice\\POO\\TP_JeuDeLaVie_version_graphique\\tp_jeudelavie_version_graphique\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3C4C9AB-DBE2-4B51-BFEF-7872CB5C37F5}|TP_JeuDeLaVie_version_graphique\\TP_JeuDeLaVie_version_graphique.csproj|solutionrelative:tp_jeudelavie_version_graphique\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E3C4C9AB-DBE2-4B51-BFEF-7872CB5C37F5}|TP_JeuDeLaVie_version_graphique\\TP_JeuDeLaVie_version_graphique.csproj|C:\\Users\\cotis\\Documents\\Enjmin\\cours\\exercice\\POO\\TP_JeuDeLaVie_version_graphique\\tp_jeudelavie_version_graphique\\controls\\mainpicturebox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E3C4C9AB-DBE2-4B51-BFEF-7872CB5C37F5}|TP_JeuDeLaVie_version_graphique\\TP_JeuDeLaVie_version_graphique.csproj|solutionrelative:tp_jeudelavie_version_graphique\\controls\\mainpicturebox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3C4C9AB-DBE2-4B51-BFEF-7872CB5C37F5}|TP_JeuDeLaVie_version_graphique\\TP_JeuDeLaVie_version_graphique.csproj|C:\\Users\\cotis\\Documents\\Enjmin\\cours\\exercice\\POO\\TP_JeuDeLaVie_version_graphique\\tp_jeudelavie_version_graphique\\controls\\mainlabel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3C4C9AB-DBE2-4B51-BFEF-7872CB5C37F5}|TP_JeuDeLaVie_version_graphique\\TP_JeuDeLaVie_version_graphique.csproj|solutionrelative:tp_jeudelavie_version_graphique\\controls\\mainlabel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3C4C9AB-DBE2-4B51-BFEF-7872CB5C37F5}|TP_JeuDeLaVie_version_graphique\\TP_JeuDeLaVie_version_graphique.csproj|C:\\Users\\cotis\\Documents\\Enjmin\\cours\\exercice\\POO\\TP_JeuDeLaVie_version_graphique\\tp_jeudelavie_version_graphique\\cell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3C4C9AB-DBE2-4B51-BFEF-7872CB5C37F5}|TP_JeuDeLaVie_version_graphique\\TP_JeuDeLaVie_version_graphique.csproj|solutionrelative:tp_jeudelavie_version_graphique\\cell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3C4C9AB-DBE2-4B51-BFEF-7872CB5C37F5}|TP_JeuDeLaVie_version_graphique\\TP_JeuDeLaVie_version_graphique.csproj|C:\\Users\\cotis\\Documents\\Enjmin\\cours\\exercice\\POO\\TP_JeuDeLaVie_version_graphique\\tp_jeudelavie_version_graphique\\coords.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3C4C9AB-DBE2-4B51-BFEF-7872CB5C37F5}|TP_JeuDeLaVie_version_graphique\\TP_JeuDeLaVie_version_graphique.csproj|solutionrelative:tp_jeudelavie_version_graphique\\coords.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3C4C9AB-DBE2-4B51-BFEF-7872CB5C37F5}|TP_JeuDeLaVie_version_graphique\\TP_JeuDeLaVie_version_graphique.csproj|C:\\Users\\cotis\\Documents\\Enjmin\\cours\\exercice\\POO\\TP_JeuDeLaVie_version_graphique\\tp_jeudelavie_version_graphique\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E3C4C9AB-DBE2-4B51-BFEF-7872CB5C37F5}|TP_JeuDeLaVie_version_graphique\\TP_JeuDeLaVie_version_graphique.csproj|solutionrelative:tp_jeudelavie_version_graphique\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,11 +46,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "Grid.cs",
+              "DocumentMoniker": "C:\\Users\\cotis\\Documents\\Enjmin\\cours\\exercice\\POO\\TP_JeuDeLaVie_version_graphique\\TP_JeuDeLaVie_version_graphique\\Grid.cs",
+              "RelativeDocumentMoniker": "TP_JeuDeLaVie_version_graphique\\Grid.cs",
+              "ToolTip": "C:\\Users\\cotis\\Documents\\Enjmin\\cours\\exercice\\POO\\TP_JeuDeLaVie_version_graphique\\TP_JeuDeLaVie_version_graphique\\Grid.cs*",
+              "RelativeToolTip": "TP_JeuDeLaVie_version_graphique\\Grid.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T09:35:42.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Cell.cs",
+              "DocumentMoniker": "C:\\Users\\cotis\\Documents\\Enjmin\\cours\\exercice\\POO\\TP_JeuDeLaVie_version_graphique\\TP_JeuDeLaVie_version_graphique\\Cell.cs",
+              "RelativeDocumentMoniker": "TP_JeuDeLaVie_version_graphique\\Cell.cs",
+              "ToolTip": "C:\\Users\\cotis\\Documents\\Enjmin\\cours\\exercice\\POO\\TP_JeuDeLaVie_version_graphique\\TP_JeuDeLaVie_version_graphique\\Cell.cs",
+              "RelativeToolTip": "TP_JeuDeLaVie_version_graphique\\Cell.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T09:35:21.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\cotis\\Documents\\Enjmin\\cours\\exercice\\POO\\TP_JeuDeLaVie_version_graphique\\TP_JeuDeLaVie_version_graphique\\Program.cs",
               "RelativeDocumentMoniker": "TP_JeuDeLaVie_version_graphique\\Program.cs",
@@ -47,13 +89,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "mainLabel.cs",
               "DocumentMoniker": "C:\\Users\\cotis\\Documents\\Enjmin\\cours\\exercice\\POO\\TP_JeuDeLaVie_version_graphique\\TP_JeuDeLaVie_version_graphique\\Controls\\mainLabel.cs",
               "RelativeDocumentMoniker": "TP_JeuDeLaVie_version_graphique\\Controls\\mainLabel.cs",
               "ToolTip": "C:\\Users\\cotis\\Documents\\Enjmin\\cours\\exercice\\POO\\TP_JeuDeLaVie_version_graphique\\TP_JeuDeLaVie_version_graphique\\Controls\\mainLabel.cs",
               "RelativeToolTip": "TP_JeuDeLaVie_version_graphique\\Controls\\mainLabel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-13T08:27:36.575Z",
               "EditorCaption": ""
@@ -74,27 +116,51 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\cotis\\Documents\\Enjmin\\cours\\exercice\\POO\\TP_JeuDeLaVie_version_graphique\\TP_JeuDeLaVie_version_graphique\\Game.cs",
+              "RelativeDocumentMoniker": "TP_JeuDeLaVie_version_graphique\\Game.cs",
+              "ToolTip": "C:\\Users\\cotis\\Documents\\Enjmin\\cours\\exercice\\POO\\TP_JeuDeLaVie_version_graphique\\TP_JeuDeLaVie_version_graphique\\Game.cs",
+              "RelativeToolTip": "TP_JeuDeLaVie_version_graphique\\Game.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T09:43:01.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\cotis\\Documents\\Enjmin\\cours\\exercice\\POO\\TP_JeuDeLaVie_version_graphique\\TP_JeuDeLaVie_version_graphique\\Form1.cs",
               "RelativeDocumentMoniker": "TP_JeuDeLaVie_version_graphique\\Form1.cs",
               "ToolTip": "C:\\Users\\cotis\\Documents\\Enjmin\\cours\\exercice\\POO\\TP_JeuDeLaVie_version_graphique\\TP_JeuDeLaVie_version_graphique\\Form1.cs",
               "RelativeToolTip": "TP_JeuDeLaVie_version_graphique\\Form1.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAAwCYAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAYwCUAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-13T08:26:08.235Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
+              "Title": "Coords.cs",
+              "DocumentMoniker": "C:\\Users\\cotis\\Documents\\Enjmin\\cours\\exercice\\POO\\TP_JeuDeLaVie_version_graphique\\TP_JeuDeLaVie_version_graphique\\Coords.cs",
+              "RelativeDocumentMoniker": "TP_JeuDeLaVie_version_graphique\\Coords.cs",
+              "ToolTip": "C:\\Users\\cotis\\Documents\\Enjmin\\cours\\exercice\\POO\\TP_JeuDeLaVie_version_graphique\\TP_JeuDeLaVie_version_graphique\\Coords.cs",
+              "RelativeToolTip": "TP_JeuDeLaVie_version_graphique\\Coords.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T09:39:03.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\cotis\\Documents\\Enjmin\\cours\\exercice\\POO\\TP_JeuDeLaVie_version_graphique\\TP_JeuDeLaVie_version_graphique\\Form1.cs",
               "RelativeDocumentMoniker": "TP_JeuDeLaVie_version_graphique\\Form1.cs",
               "ToolTip": "C:\\Users\\cotis\\Documents\\Enjmin\\cours\\exercice\\POO\\TP_JeuDeLaVie_version_graphique\\TP_JeuDeLaVie_version_graphique\\Form1.cs [Design]",
               "RelativeToolTip": "TP_JeuDeLaVie_version_graphique\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T08:14:02.416Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-11-13T08:14:02.416Z"
             }
           ]
         }
