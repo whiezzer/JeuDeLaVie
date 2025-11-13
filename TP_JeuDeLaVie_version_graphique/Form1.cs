@@ -17,6 +17,8 @@ namespace TP_JeuDeLaVie_version_graphique
     {
         mainLabel label;
         mainPictureBox pictureBox;
+        btnPause pause;
+        btnRecommence restart;
         int n;
         Game game;
         Timer MyTimer;
@@ -34,6 +36,18 @@ namespace TP_JeuDeLaVie_version_graphique
             pictureBox.Location = new Point((Size.Width - pictureBox.Width) / 2 - 10, (Size.Height - pictureBox.Height) / 2 - 40);
             pictureBox.Paint += new PaintEventHandler(pctBox_main_Paint);
 
+            pause = new btnPause();
+            pause.Location = new Point(450, (Size.Height - pause.Height) / 2 - 40);
+
+            pause.Click += new EventHandler(btn_pause_Click);
+
+            restart = new btnRecommence();
+            restart.Location = new Point(450, (Size.Height - restart.Height) / 2 - 80);
+
+            restart.Click += new EventHandler(btn_restart_Click);
+
+            Controls.Add(pause);
+            Controls.Add(restart);
             Controls.Add(label);
             Controls.Add(pictureBox);
 
@@ -100,6 +114,35 @@ namespace TP_JeuDeLaVie_version_graphique
                     }
                 }
             }
+        }
+
+        private void btn_pause_Click(object sender, EventArgs e)
+        {
+            //Message por prevenir que la simulation commence
+            if (MyTimer.Enabled)
+            {
+                MyTimer.Stop();
+            }
+            else
+            {
+                MyTimer.Start();
+            }
+        }
+
+        private void btn_restart_Click(object sender, EventArgs e)
+        {
+            if (MyTimer.Enabled)
+                MyTimer.Stop();
+
+            generation = 0;
+            label.Text = generation.ToString();
+
+            Random random = new Random();
+            game = new Game(random.Next(400), 15);
+
+            pictureBox.Invalidate();
+
+            MyTimer.Start();
         }
     }
 }
