@@ -15,6 +15,7 @@ namespace TP_JeuDeLaVie_version_graphique
     {
         mainLabel label;
         mainPictureBox pictureBox;
+        int n;
 
         public Form1()
         {
@@ -23,21 +24,19 @@ namespace TP_JeuDeLaVie_version_graphique
             label = new mainLabel();
             label.Location = new Point((Size.Width - label.Width) / 2 - 10, 325);
 
-            pictureBox = new mainPictureBox(60);
+            n = 40;
+            pictureBox = new mainPictureBox(n);
             pictureBox.Location = new Point((Size.Width - pictureBox.Width) / 2 - 10, (Size.Height - pictureBox.Height) / 2 - 40);
 
             Controls.Add(label);
             Controls.Add(pictureBox);
         }
 
-        private void label1_Click(object sender, EventArgs e)
+        private void Form1_Load(object sender, EventArgs e)
         {
-
-        }
-
-        private void pictureBox1_Click(object sender, EventArgs e)
-        {
-
+            // Définir la taille et le titre de la fenêtre
+            Size = new Size(610, 400);
+            Text = "Jeu de la vie";
         }
     }
 }
