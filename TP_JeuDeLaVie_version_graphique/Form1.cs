@@ -1,4 +1,5 @@
-﻿using System;
+﻿using JeuDeLaVie;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -8,6 +9,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using TP_JeuDeLaVie_version_graphique.Controls;
+using static System.Windows.Forms.VisualStyles.VisualStyleElement.TextBox;
 
 namespace TP_JeuDeLaVie_version_graphique
 {
@@ -35,7 +37,8 @@ namespace TP_JeuDeLaVie_version_graphique
             Controls.Add(label);
             Controls.Add(pictureBox);
 
-            game = new Game(5, 15);
+            Random random = new Random();
+            game = new Game(random.Next(400), 15);
 
             MyTimer = new Timer();
             MyTimer.Interval = (200);
@@ -52,10 +55,26 @@ namespace TP_JeuDeLaVie_version_graphique
 
         private void updateGrid(object sender, EventArgs e)
         {
+            List<Coords> ancienneCelluleAlive = game.grid.getCoordsCellsAlive();
+
+            if (game.grid.getCoordsCellsAlive().Count == 0)
+            {
+                MyTimer.Stop();
+            }
+
             game.grid.UpdateGrid();
             generation++;
             label.Text = generation.ToString();
             this.Refresh();
+
+            List<Coords> nouvelleCelluleAlive = game.grid.getCoordsCellsAlive();
+
+            bool grilleIdentique = ancienneCelluleAlive.Count == nouvelleCelluleAlive.Count && !ancienneCelluleAlive.Any(c1 => !nouvelleCelluleAlive.Any(c2 => c1.x == c2.x && c1.y == c2.y));
+
+            if (grilleIdentique)
+            {
+                MyTimer.Stop();
+            }
         }
 
         private void pctBox_main_Paint(object sender, PaintEventArgs e)
@@ -65,26 +84,20 @@ namespace TP_JeuDeLaVie_version_graphique
 
             Graphics g = e.Graphics;
             Brush brushAlive = Brushes.White;
-            Brush brushDead = Brushes.Black;
 
-            int cellSize = 10; // Taille d’une cellule en pixels
+            int cellSize = 10;
+
+            g.Clear(Color.Black);
 
             for (int y = 0; y < game.grid.TabCells.GetLength(0); y++)
             {
                 for (int x = 0; x < game.grid.TabCells.GetLength(1); x++)
                 {
-                    Rectangle rect = new Rectangle(x * cellSize, y * cellSize, cellSize, cellSize);
                     if (game.grid.TabCells[y, x].isAlive)
                     {
+                        Rectangle rect = new Rectangle(x * cellSize, y * cellSize, cellSize, cellSize);
                         g.FillRectangle(brushAlive, rect);
                     }
-                    else
-                    {
-                        g.FillRectangle(brushDead, rect);
-                    }
-
-                    // Dessin optionnel d’un contour de cellule
-                    g.DrawRectangle(Pens.Gray, rect);
                 }
             }
         }

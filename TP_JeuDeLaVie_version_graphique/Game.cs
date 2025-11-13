@@ -1,6 +1,7 @@
 ﻿using JeuDeLaVie;
 using System;
 using System.Collections.Generic; // Pour List<T>
+using System.Drawing;
 using System.Threading; // Pour Thread.Sleep
 public class Game
 {
@@ -15,15 +16,23 @@ public class Game
     // ★★★ Constructeur : initialise la simulation
     public Game(int nbCells, int nbIterations)
     {
-        n = nbCells;
+        n = 20;
         iter = nbIterations;
-        AliveCellsCoords = new List<Coords> {
-            new Coords(5, 4),
-            new Coords(4, 4),
-            new Coords(4, 5),
-            new Coords(3, 5),
-            new Coords(3, 3),
-        };
+        AliveCellsCoords = new List<Coords>();
+        Random random = new Random();
+
+        for (int i = 0; i < nbCells; i++)
+        {
+            Coords coord = new Coords(random.Next(n), random.Next(n));
+            if (AliveCellsCoords.Contains(coord) == false) 
+            {
+                AliveCellsCoords.Add(coord);
+            }
+            else
+            {
+                i--;
+            }
+        }
         grid = new Grid(n, AliveCellsCoords);
     }
 
